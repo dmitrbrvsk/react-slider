@@ -1,0 +1,1 @@
+export const SET_COLOR_SLIDE = 'SET_COLOR_SLIDE'
