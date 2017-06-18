@@ -1,4 +1,4 @@
-# Simple ReactGithub
+# Simple React Slider
 
 Created with [Create React App](https://github.com/facebookincubator/create-react-app)
 
